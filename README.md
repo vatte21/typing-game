@@ -1,3 +1,3 @@
 # Typing-game
-Wordbeat-Game, JS, bootstrap
+Wordbeat-Game, JS, Bootstrap
 # https://vatte21.github.io/typing-game/
